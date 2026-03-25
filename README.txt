@@ -14,7 +14,7 @@ export default function Home() {
 
       <section style={{padding:"80px 20px",textAlign:"center",background:"linear-gradient(135deg,#0f172a,#1e3a8a)",color:"#fff"}}>
         <h1>CCTV, Intercom & Security Experts</h1>
-        <p>Protect your home & business with trusted professionals</p>
+        <p>Trusted. Affordable. Professional.</p>
       </section>
 
       <section style={{padding:"50px",textAlign:"center"}}>
